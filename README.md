@@ -3,7 +3,7 @@ Ola! Seja bem-vindo ao meu GitHub ✌🏽
 MEIOS DE CONTATO:
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white.com)](https://www.instagram.com/gabriel_dellatore?igsh=MXNzZm00bmg5b2s4eg==.com)
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.com)](www.linkedin.com/in/gabriel-dellatore-ezequiel-768960273.com)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white.com)](https://www.linkedin.com/in/gabriel-dellatore-ezequiel-768960273/.com)
 
 MINHAS HABILIDADES:
 <div style="display: inline_bock"><br/>
