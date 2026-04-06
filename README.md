@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/gabriel-dellatore-ezequiel" target="blank"><img align="center"
+  <a href="https://www.linkedin.com/in/gabriel-dellatore-ezequiel" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="gabriel dellatore ezequiel" height="30" width="40" /></a>
   <a href="https://www.facebook.com/gabriel.dellatore" target="blank"><img align="center"
